@@ -12,14 +12,14 @@ The practice of using a network of remote servers hosted on the Internet to stor
 ## Advantages of Cloud Computing
 
 1. Trade capital expense for variable expense
-   2. Pay on Demand
+   - Pay on Demand
 2. Benefit from massive economies of scale
-   3. Sharing cost with other customers to reduce cost
+   - Sharing cost with other customers to reduce cost
 3. Stop guessing capacity
-   4. Ability ot scale up and down
+   - Ability ot scale up and down
 4. Increase speed and agility
 5. Stop spending money on running and maintaining data centers
-   6. Focus on customers instead of the equipment
+   - Focus on customers instead of the equipment
 6. Go global in minutes
 
 ## Types of Cloud Computing
